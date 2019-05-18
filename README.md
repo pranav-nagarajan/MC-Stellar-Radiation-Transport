@@ -1,2 +1,2 @@
 # MC-Stellar-Radiation-Transport
-Using Monte Carlo techniques to simulate photon transport in stellar atmospheres.
+Using Monte Carlo Techniques to Simulate Photon Transport in Stellar Atmospheres
